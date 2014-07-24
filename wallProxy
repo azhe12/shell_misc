@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cd ~/share/win7/wallproxy-wallproxy-57b73e5/local
+./startup.py
